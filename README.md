@@ -8,3 +8,20 @@ Features:
 - Summary counters
 - Duplicate file detection
 - Cross-platform filesystem support
+
+How to Compile
+
+bash
+g++ file_organizer.cpp -std=c++17 -o organizer
+
+ How to Run
+
+bash
+./organizer <folder_path>
+
+
+Example:
+
+bash
+./organizer TestFolder
+
