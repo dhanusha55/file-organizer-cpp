@@ -16,12 +16,10 @@ g++ file_organizer.cpp -std=c++17 -o organizer
 
  How to Run
 
-bash
 ./organizer <folder_path>
 
 
 Example:
 
-bash
 ./organizer TestFolder
 
